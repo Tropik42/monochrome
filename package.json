@@ -2,11 +2,10 @@
   "name": "monochrome",
   "version": "1.0.0",
   "description": "messenger web app",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "parcel index.hbs",
-    "build": "parcel build index.hbs"
+    "dev": "parcel src/index.hbs",
+    "build": "parcel build src/index.hbs"
   },
   "repository": {
     "type": "git",
@@ -20,6 +19,10 @@
   "homepage": "https://github.com/Tropik42/monochrome#readme",
   "devDependencies": {
     "@anikin/parcel-transformer-handlebars": "^1.0.9",
+    "@parcel/transformer-sass": "^2.8.3",
     "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
