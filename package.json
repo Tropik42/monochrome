@@ -4,8 +4,9 @@
   "description": "messenger web app",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "parcel src/index.hbs",
-    "build": "parcel build src/index.hbs"
+    "dev": "parcel --no-cache src/index.hbs",
+    "build": "parcel build src/index.hbs",
+    "start": "parcel build src/index.hbs && node ./src/server.js"
   },
   "repository": {
     "type": "git",
