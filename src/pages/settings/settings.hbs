@@ -1,0 +1,18 @@
+{{>main}}
+<main class="err__data">
+    <h1 class="page__enter">Профиль</h1>
+    <img class="setting_avatar" src="../../../static/img/cat_err.png"/>
+    <form class="register-page__form">
+        <div class="register-page__input-form">
+            {{>input/input type="email" placeholder="email" add_class="input_auth"}}
+            {{>input/input type="text" placeholder="логин" add_class="input_auth"}}
+            {{>input/input type="text" placeholder="имя" add_class="input_auth"}}
+            {{>input/input type="text" placeholder="фамилия" add_class="input_auth"}}
+            {{>input/input type="text" placeholder="телефон" add_class="input_auth"}}
+            {{>input/input type="password" placeholder="пароль" add_class="input_auth"}}
+            {{>input/input type="password" placeholder="пароль (еще раз)" add_class="input_auth"}}
+        </div>
+    </form>
+    {{>button/button button_title="Сохранить" add_class="register-page__create-btn"}}
+    {{>button/button button_title="выйти" add_class="register-page__sign-btn"}}
+</main>
