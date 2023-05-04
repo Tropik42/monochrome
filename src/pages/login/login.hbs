@@ -8,6 +8,15 @@
             <input type="password" placeholder="пароль" class="login-page__input">
         </div>
     </form>
-    {{>button/button button_title="АВТОРИЗОВАТЬСЯ" add_class="login-page__auth-button"}}
-    {{>button/button button_title="зарегистрироваться" add_class="login-page__reg-button"}}
+
+        <a href='../chat/chat.hbs' class="link-button">
+            <!--        АВТОРИЗОВАТЬСЯ-->
+                   {{>button/button button_title="АВТОРИЗОВАТЬСЯ" add_class=""}}
+        </a>
+
+
+    <a href='../register/register.hbs' class="link-button">
+<!--        зарегистрироваться-->
+        {{>button/button button_title="зарегистрироваться" add_class=""}}
+    </a>
 </main>
