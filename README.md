@@ -1,7 +1,6 @@
 # monochrome
 Веб-мессенджер
 
-
 ## TOC
 - [monochrome](#monochrome)
     - [TOC](#toc)

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2315bc96-7275-447a-bb5f-4d4ef78fca99" name="Changes" comment="add idea to gitignore" />
+    <list default="true" id="2315bc96-7275-447a-bb5f-4d4ef78fca99" name="Changes" comment="fix gitignore 2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,7 @@
       <updated>1683576440577</updated>
       <workItem from="1683576442728" duration="657000" />
       <workItem from="1683577557763" duration="332000" />
+      <workItem from="1683582096602" duration="413000" />
     </task>
     <task id="LOCAL-00001" summary="tech commit">
       <created>1683577685785</created>
@@ -67,33 +70,33 @@
       <option name="project" value="LOCAL" />
       <updated>1683577874291</updated>
     </task>
-    <task id="LOCAL-00003" summary="test deploy">
-      <created>1683578088505</created>
+    <task id="LOCAL-00003" summary="for pr 5">
+      <created>1683581717151</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1683578088505</updated>
+      <updated>1683581717151</updated>
     </task>
-    <task id="LOCAL-00004" summary="test deploy 2">
-      <created>1683578170281</created>
+    <task id="LOCAL-00004" summary="help me please">
+      <created>1683582127767</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1683578170281</updated>
+      <updated>1683582127767</updated>
     </task>
-    <task id="LOCAL-00005" summary="add deploy to readme">
-      <created>1683578297914</created>
+    <task id="LOCAL-00005" summary="fix gitignore">
+      <created>1683582271984</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1683578297914</updated>
+      <updated>1683582271984</updated>
     </task>
-    <task id="LOCAL-00006" summary="add idea to gitignore">
-      <created>1683578444330</created>
+    <task id="LOCAL-00006" summary="fix gitignore 2">
+      <created>1683582486503</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1683578444330</updated>
+      <updated>1683582486503</updated>
     </task>
     <option name="localTasksCounter" value="7" />
     <servers />
@@ -115,10 +118,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tech commit" />
     <MESSAGE value="tech commit 2" />
-    <MESSAGE value="test deploy" />
-    <MESSAGE value="test deploy 2" />
-    <MESSAGE value="add deploy to readme" />
-    <MESSAGE value="add idea to gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add idea to gitignore" />
+    <MESSAGE value="for pr 5" />
+    <MESSAGE value="for pr 6" />
+    <MESSAGE value="help me please" />
+    <MESSAGE value="fix gitignore" />
+    <MESSAGE value="fix gitignore 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix gitignore 2" />
   </component>
 </project>
