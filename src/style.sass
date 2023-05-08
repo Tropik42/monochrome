@@ -6,7 +6,7 @@
 
 @import "pages/login/login.sass"
 @import "./src/pages/register/register.sass"
-@import "./src/pages/settings/settings.sass"
+@import "./src/pages/profile/profile.sass"
 @import "./src/pages/chat/chat.sass"
 
 html
@@ -24,13 +24,13 @@ html
 
 .page__form-container
   /* Контейенер формы */
+  display: flex
+  flex-direction: column
   margin: 2% auto 4%
   padding-bottom: 5%
   background: #F2F2F2
   border-radius: 3%
   width: 48%
-  flex-direction: column
-  display: flex
   align-items: center
 
 .page__input-form
