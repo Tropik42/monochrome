@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2315bc96-7275-447a-bb5f-4d4ef78fca99" name="Changes" comment="add idea to gitignore" />
+    <list default="true" id="2315bc96-7275-447a-bb5f-4d4ef78fca99" name="Changes" comment="test deploy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="deploy" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,7 +52,6 @@
       <updated>1683576440577</updated>
       <workItem from="1683576442728" duration="657000" />
       <workItem from="1683577557763" duration="332000" />
-      <workItem from="1683580562095" duration="102000" />
     </task>
     <task id="LOCAL-00001" summary="tech commit">
       <created>1683577685785</created>
@@ -68,49 +67,7 @@
       <option name="project" value="LOCAL" />
       <updated>1683577874291</updated>
     </task>
-    <task id="LOCAL-00003" summary="test deploy">
-      <created>1683578088505</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1683578088505</updated>
-    </task>
-    <task id="LOCAL-00004" summary="test deploy 2">
-      <created>1683578170281</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1683578170281</updated>
-    </task>
-    <task id="LOCAL-00005" summary="add deploy to readme">
-      <created>1683578297914</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1683578297914</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add idea to gitignore">
-      <created>1683578444330</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1683578444330</updated>
-    </task>
-    <task id="LOCAL-00007" summary="for pr">
-      <created>1683580588644</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1683580588644</updated>
-    </task>
-    <task id="LOCAL-00008" summary="for pr 2">
-      <created>1683580635409</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1683580635409</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,12 +87,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tech commit" />
     <MESSAGE value="tech commit 2" />
-    <MESSAGE value="test deploy" />
-    <MESSAGE value="test deploy 2" />
-    <MESSAGE value="add deploy to readme" />
-    <MESSAGE value="add idea to gitignore" />
-    <MESSAGE value="for pr" />
-    <MESSAGE value="for pr 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="for pr 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="tech commit 2" />
   </component>
 </project>
