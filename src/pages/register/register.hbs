@@ -2,17 +2,17 @@
 <main>
     {{>logo/logo}}
     <h1 class="page__header">Регистрация</h1>
-    <form class="register-page__form">
-        <div class="register-page__input-form">
-            {{>input/input type="email" placeholder="email" add_class="input_auth"}}
-            {{>input/input type="text" placeholder="логин" add_class="input_auth"}}
-            {{>input/input type="text" placeholder="имя" add_class="input_auth"}}
-            {{>input/input type="text" placeholder="фамилия" add_class="input_auth"}}
-            {{>input/input type="text" placeholder="телефон" add_class="input_auth"}}
-            {{>input/input type="password" placeholder="пароль" add_class="input_auth"}}
-            {{>input/input type="password" placeholder="пароль (еще раз)" add_class="input_auth"}}
+    <form class="register-page__form-container">
+        <div class="page__input-form">
+            {{>input/input type="email" placeholder="email" add_class="register-page__input"}}
+            {{>input/input type="text" placeholder="логин" add_class="register-page__input"}}
+            {{>input/input type="text" placeholder="имя" add_class="register-page__input"}}
+            {{>input/input type="text" placeholder="фамилия" add_class="register-page__input"}}
+            {{>input/input type="text" placeholder="телефон" add_class="register-page__input"}}
+            {{>input/input type="password" placeholder="пароль" add_class="register-page__input"}}
+            {{>input/input type="password" placeholder="пароль (еще раз)" add_class="register-page__input"}}
         </div>
     </form>
-    {{>button/button button_title="ЗАРЕГИСТРИРОВАТЬСЯ" add_class="register-page__create-btn"}}
-    {{>button/button button_title="войти" add_class="register-page__sign-btn"}}
+    {{>button/button button_title="ЗАРЕГИСТРИРОВАТЬСЯ" add_class="btn-big"}}
+    {{>button/button button_title="войти" add_class="btn-medium"}}
 </main>
