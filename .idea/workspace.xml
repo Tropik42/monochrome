@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="deploy" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683577874291</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test deploy">
+      <created>1683578088505</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683578088505</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test deploy 2">
+      <created>1683578170281</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683578170281</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +98,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tech commit" />
     <MESSAGE value="tech commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="tech commit 2" />
+    <MESSAGE value="test deploy" />
+    <MESSAGE value="test deploy 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test deploy 2" />
   </component>
 </project>
