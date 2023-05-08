@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2315bc96-7275-447a-bb5f-4d4ef78fca99" name="Changes" comment="test deploy" />
+    <list default="true" id="2315bc96-7275-447a-bb5f-4d4ef78fca99" name="Changes" comment="help me please">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.d6091572.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.d6091572.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +56,7 @@
       <updated>1683576440577</updated>
       <workItem from="1683576442728" duration="657000" />
       <workItem from="1683577557763" duration="332000" />
+      <workItem from="1683582096602" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="tech commit">
       <created>1683577685785</created>
@@ -74,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683581717151</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="help me please">
+      <created>1683582127767</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683582127767</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +108,7 @@
     <MESSAGE value="tech commit 2" />
     <MESSAGE value="for pr 5" />
     <MESSAGE value="for pr 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="for pr 6" />
+    <MESSAGE value="help me please" />
+    <option name="LAST_COMMIT_MESSAGE" value="help me please" />
   </component>
 </project>
