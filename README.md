@@ -6,6 +6,7 @@
     - [TOC](#toc)
     - [Description](#description)
     - [Install and run](#install-and-run)
+    - [Deploy](#deploy)
     - [Links](#links)
 
 ## Description
@@ -20,6 +21,12 @@
 `npm run dev` - сборка и запуск приложения на локальном хосте  
 `npm run build` - сборка приложения  
 `npm run start` - сборка приложения и запуск сервера на порту 3000  
+
+## Deploy
+
+Описание развёртывания проекта
+
+Проект деплоится из ветки `deploy` по адресу https://wondrous-youtiao-73333c.netlify.app/
 
 ## Links
 
