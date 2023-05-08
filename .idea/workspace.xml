@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2315bc96-7275-447a-bb5f-4d4ef78fca99" name="Changes" comment="tech commit" />
+    <list default="true" id="2315bc96-7275-447a-bb5f-4d4ef78fca99" name="Changes" comment="add idea to gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +22,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PWcmoMbRonzbuYDTI4bphXR4ef" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -78,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683578170281</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add deploy to readme">
+      <created>1683578297914</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683578297914</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add idea to gitignore">
+      <created>1683578444330</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683578444330</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +117,8 @@
     <MESSAGE value="tech commit 2" />
     <MESSAGE value="test deploy" />
     <MESSAGE value="test deploy 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test deploy 2" />
+    <MESSAGE value="add deploy to readme" />
+    <MESSAGE value="add idea to gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add idea to gitignore" />
   </component>
 </project>
